@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios prático</title>
+    <link rel="shortcut icon" href="../ex010/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Exemplo de imagens internas e externas.</h1>
+    <h2>Imagem interna flexível</h2>
+    <p><picture>
+
+        <source media="(max-width:750px )" srcset="mideas/café-300.jpeg" type="image/jpg">
+        <source media="(max-width:1000px )" srcset="mideas/café-600.jpeg" type="image/jpeg">
+        <img src="mideas/café-750.jpeg" alt="Imagem flexível">
+    </picture></p>
+    <h2>Imagem externa</h2>
+    <img src="https://www.runtastic.com/blog/wp-content/uploads/2020/04/thumbnail_1200x800-2.jpg" alt="Imagem externa">
+    <a href="index.html"><img src="mideas/seta-150.png" alt="Voltar pagina inicial"></a>
+    
+</body>
+</html>

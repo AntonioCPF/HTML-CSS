@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.dapp-estudos---imigração-MONO-1-hex { color: #1693A2; }
+.dapp-estudos---imigração-MONO-2-hex { color: #316970; }
+.dapp-estudos---imigração-MONO-3-hex { color: #0C4E56; }
+.dapp-estudos---imigração-MONO-4-hex { color: #4798A2; }
+.dapp-estudos---imigração-MONO-5-hex { color: #21D9EF; }
+
+/* Color Theme Swatches in RGBA */
+.dapp-estudos---imigração-MONO-1-rgba { color: rgba(22, 147, 161, 1); }
+.dapp-estudos---imigração-MONO-2-rgba { color: rgba(48, 104, 111, 1); }
+.dapp-estudos---imigração-MONO-3-rgba { color: rgba(11, 78, 86, 1); }
+.dapp-estudos---imigração-MONO-4-rgba { color: rgba(70, 152, 161, 1); }
+.dapp-estudos---imigração-MONO-5-rgba { color: rgba(33, 216, 239, 1); }
+
+/* Color Theme Swatches in HSLA */
+.dapp-estudos---imigração-MONO-1-hsla { color: hsla(186, 75, 36, 1); }
+.dapp-estudos---imigração-MONO-2-hsla { color: hsla(186, 39, 31, 1); }
+.dapp-estudos---imigração-MONO-3-hsla { color: hsla(186, 75, 19, 1); }
+.dapp-estudos---imigração-MONO-4-hsla { color: hsla(186, 39, 45, 1); }
+.dapp-estudos---imigração-MONO-5-hsla { color: hsla(186, 86, 53, 1); }
